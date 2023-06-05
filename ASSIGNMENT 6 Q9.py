@@ -1,4 +1,4 @@
-a = input("Enter your hyphenated words.")
+a = input("Enter a stirng with brackets")
 isValid = True
 stack = []
 for i in range(0, len(a)):

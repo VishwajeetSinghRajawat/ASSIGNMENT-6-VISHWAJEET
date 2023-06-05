@@ -1,4 +1,4 @@
-a = input("ENTER=")
+a = input("Enter your hyphenated words.")
 isValid = True
 stack = []
 for i in range(0, len(a)):
